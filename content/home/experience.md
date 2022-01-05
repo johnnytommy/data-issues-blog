@@ -6,11 +6,14 @@ widget: experience
 # This file represents a page section.
 headless: true
 
+# Activate this widget? true/false
+active = false
+
 # Order that this section appears on the page.
 weight: 40
 
 title: Experience
-subtitle:
+subtitle: ""
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
