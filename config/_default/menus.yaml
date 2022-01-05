@@ -5,8 +5,11 @@
 
 main:
   - name: Posts
-    url: '#posts'
+    url: '/posts'
+    weight: 10
+  - name: Goodies
+    url: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
     weight: 20
-  - name: Projects
-    url: '/projects'
+  - name: About
+    url: '/about'
     weight: 30
