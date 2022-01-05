@@ -1,4 +1,4 @@
-theme: "starter-hugo-academic"
+theme: "hugo-academic"
 # Configuration of Hugo
 # Guide: https://wowchemy.com/docs/getting-started/
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
@@ -6,7 +6,7 @@ theme: "starter-hugo-academic"
 
 title: Data Issues # Website name
 baseurl: 'https://data-issues.netlify.app/' # Website URL
-copyright: 'We lit! Thank u to my God!' # Footer text, e.g. '© {year} Me'
+copyright: 'John Thomas, {year}, We lit! Thank u to my God!' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
