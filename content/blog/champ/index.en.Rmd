@@ -17,11 +17,12 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+
 links:
 - icon: twitter
-- icon_pack: fab
-- name: Follow
-- url: https://twitter.com/johnny_stats
+  icon_pack: fab
+  name: Follow
+  url: "https://twitter.com/johnny_stats"
 ---
 
 ```{r}
