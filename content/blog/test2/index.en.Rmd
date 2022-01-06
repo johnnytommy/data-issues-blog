@@ -1,0 +1,26 @@
+---
+title: Test Post
+author: John Thomas
+date: '2022-01-06'
+slug: test2
+categories:
+  - R
+tags:
+  - Academic
+  - Demo
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2022-01-06T14:29:40-05:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+```{r }
+summary(cars)
+```
+
+This is cars now in action!

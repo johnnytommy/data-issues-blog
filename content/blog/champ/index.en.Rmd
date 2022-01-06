@@ -1,0 +1,24 @@
+---
+title: The Blog of Champions
+author: John Thomas
+date: '2022-01-06'
+slug: champ
+categories:
+  - R
+tags:
+  - Demo
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2022-01-06T14:55:25-05:00'
+featured: yes
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+```{r}
+summary(iris)
+```
