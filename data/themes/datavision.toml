@@ -1,0 +1,23 @@
+# Theme metadata
+name = "datavision"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#EF476F"
+
+# Menu
+menu_primary = "#BA5A31"
+menu_text = "#E6E6E6"
+menu_text_active = "#01161E"
+menu_title = "#E6E6E6"
+
+# Backgrounds
+background = "#C2F7FF"
+home_section_odd = "#C2F7FF"
+home_section_even = "#C2F7FF"
+
+# font = "rose"
+link = "#875C74"
+link_hover = "#875C74"

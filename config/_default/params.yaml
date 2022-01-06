@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: minimal
+theme: "datavision"
 day_night: true
 font: ''
 font_size: L
@@ -94,6 +94,7 @@ comments:
   provider: ''
   commentable:
     post: true
+    blog: true
     book: true
     project: true
     publication: true
