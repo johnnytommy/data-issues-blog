@@ -5,7 +5,7 @@
 
 main:
   - name: Blog
-    url: '/post'
+    url: 'project/'
     weight: 10
   - name: Goodies
     url: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
