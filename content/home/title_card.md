@@ -8,7 +8,7 @@ headless: true
 weight: 1
 
 design:
-  columns: "2"
+  columns: "1"
   #spacing:
     #padding: ["20px", "0", "20px", "0"]
   # background:
