@@ -54,7 +54,7 @@ experience:
   - title: Data Science Summer Associate
     company: Summit Consulting, LLC
     company_url: ''
-    company_logo: gw
+    company_logo: summit
     location: Washington, DC
     date_start: '2019-05-01'
     date_end: '2019-08-01'
