@@ -51,6 +51,41 @@ experience:
         * Modelling
         * Deploying
 
+  - title: Data Science Summer Associate
+    company: Summit Consulting, LLC
+    company_url: ''
+    company_logo: gw
+    location: Washington, DC
+    date_start: '2019-05-01'
+    date_end: '2019-08-01'
+    description: |2- 
+      Responsibilities include:
+        * Created interactive web applications for internal usage in document tracking and proposal management using R Shiny and SQL
+        * Created automation R Scripts to increase the efficiency of the re-estimation process for loan distributions for a number of federal clients
+
+  - title: Assistant Project Coordinator - Training & Evaluation/ Residence Director
+    company: The George Washington University - Center for Student Engagement
+    company_url: ''
+    company_logo: gw
+    location: Washington, DC
+    date_start: '2018-08-01'
+    date_end: '2021-05-01'
+    description: |2- 
+      Responsibilities include:
+        * Oversaw several undergraduate residences and planned training and selection processes for the residence advisors of the university.
+        * Participated as a member of the Administrator on Call rotation serving as a first-responder for the Division of Student Affairs to respond to emergencies and crises       
+
+  - title: Data Analyst
+    company: RDTeam, Inc.
+    company_url: ''
+    company_logo: rdteam
+    location: Limerick, PA
+    date_start: '2017-05-01'
+    date_end: '2018-08-01'
+    description: |2- 
+      Responsibilities include:
+        * Created surveys in SurveyMonkey and organized several hundred person national qualitative and quantitative market research studies for clients such as Campbell’s, Hershey’s, Wawa, and Vitafusion.
+
 design:
   columns: '2'
 ---
