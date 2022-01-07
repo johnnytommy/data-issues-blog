@@ -16,11 +16,11 @@ design:
   #   image_position: center
   #   image_size: cover
   #   text_color_light: true
+  
 design:
-  columns: "1"
-  spacing:
-    padding: ["20px", "0", "20px", "0"]
+  columns: "2"
+  #spacing:
+    #padding: ["20px", "0", "20px", "0"]
 ---
 
-
-![datavision_logo](/datavision.png)
+{{< figure src=/datavision.png theme="light" class="center">}} 
