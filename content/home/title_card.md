@@ -26,5 +26,5 @@ design:
 
 
 <p align="center">
-![NHL Playoffs](datavision.png)
+![datavision](datavision.png)
 </p>
