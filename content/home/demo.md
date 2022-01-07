@@ -12,8 +12,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-title: Data Issues
-subtitle: Behold in its glory, Johnny Tommy's personal blog! Or something.....
+title: ""
+subtitle: ""
 
 design:
   columns: "1"
@@ -27,3 +27,6 @@ design:
   spacing:
     padding: ["20px", "0", "20px", "0"]
 ---
+
+
+![screen reader text](datavision.png)
