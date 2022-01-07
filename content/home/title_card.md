@@ -23,3 +23,8 @@ design:
 ---
 
 {{< figure src=/datavision.png theme="light" class="center">}} 
+
+
+<p align="center">
+![NHL Playoffs](datavision.png)
+</p>
