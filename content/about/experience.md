@@ -28,8 +28,8 @@ experience:
   - title: CEO
     company: GenCoin
     company_url: ''
-    company_logo: org-gc
-    location: California
+    company_logo: endeavor
+    location: New York City
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
