@@ -10,7 +10,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 15
+weight: 1
 
 title: ""
 subtitle: ""
@@ -18,15 +18,12 @@ subtitle: ""
 design:
   columns: "1"
   background:
-    image: open-book.jpg
-    image_darken: 1.0
-    image_parallax: true
+    image: datavision.png
+    image_darken: 2.0
+    image_parallax: false
     image_position: center
     image_size: cover
-    text_color_light: false
+    text_color_light: true
   spacing:
-    padding: ["20px", "0", "20px", "0"]
+    padding: ["20px", "0", "350px", "0"]
 ---
-
-
-![screen reader text](datavision.png)
