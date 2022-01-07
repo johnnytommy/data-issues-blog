@@ -8,7 +8,9 @@ headless: true
 weight: 1
 
 design:
-  columns: "1"
+  columns: "2"
+  #spacing:
+    #padding: ["20px", "0", "20px", "0"]
   # background:
   #   image: datavision.png
   #   image_darken: 2.0
@@ -16,11 +18,8 @@ design:
   #   image_position: center
   #   image_size: cover
   #   text_color_light: true
-  
-design:
-  columns: "2"
-  #spacing:
-    #padding: ["20px", "0", "20px", "0"]
+
+
 ---
 
 {{< figure src=/datavision.png theme="light" class="center">}} 
