@@ -17,13 +17,13 @@ subtitle: ""
 
 design:
   columns: "1"
-  background:
-    image: datavision.png
-    image_darken: 2.0
-    image_parallax: false
-    image_position: center
-    image_size: cover
-    text_color_light: true
+  # background:
+  #   image: datavision.png
+  #   image_darken: 2.0
+  #   image_parallax: false
+  #   image_position: center
+  #   image_size: cover
+  #   text_color_light: true
   spacing:
     padding: ["20px", "0", "350px", "0"]
 ---
