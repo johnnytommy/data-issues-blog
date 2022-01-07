@@ -33,7 +33,7 @@ experience:
     date_start: '2021-03-01'
     date_end: ''
     description: |2-
-
+      Responsibilities include:
         * Analysing
         * Modelling
         * Deploying
@@ -46,7 +46,7 @@ experience:
     date_start: '2020-05-01'
     date_end: '2021-01-01'
     description: |2- 
-    
+      Responsibilities include:
         * Analysing
         * Modelling
         * Deploying
