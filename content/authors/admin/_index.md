@@ -13,8 +13,8 @@ email: johnthomasthegreat@gmail.com
 highlight_name: true
 interests:
 - Data Visualization
-- Marketing Analysis
-- Survey Data Research
+- Text Data Analysis
+- Data Science Teaching
 organizations:
 - name: Endeavor X
   url: https://www.endeavorco.com/
@@ -22,7 +22,7 @@ role: Data Scientist
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  link: mailto:johnthomasthegreat@gmail.com
 - display:
     header: true
   icon: twitter
