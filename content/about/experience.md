@@ -63,7 +63,7 @@ experience:
         * Created interactive web applications for internal usage in document tracking and proposal management using R Shiny and SQL
         * Created automation R Scripts to increase the efficiency of the re-estimation process for loan distributions for a number of federal clients
 
-  - title: Assistant Project Coordinator - Training & Evaluation/ Residence Director
+  - title: Assistant Project Coordinator - Training & Evaluation/Residence Director
     company: The George Washington University - Center for Student Engagement
     company_url: ''
     company_logo: gw

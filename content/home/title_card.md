@@ -8,7 +8,6 @@ headless: true
 weight: 1
 
 design:
-  columns: "1"
   #spacing:
     #padding: ["20px", "0", "20px", "0"]
   # background:
@@ -22,9 +21,18 @@ design:
 
 ---
 
-{{< figure src=/datavision.png theme="light" class="center">}} 
+{{< figure src=/datavision.png theme="light" class="center">}}
 
 
-<p align="center">
-![datavision](datavision.png)
-</p>
+{{< rawhtml >}}
+<style>
+    .center{
+    <img src=/datavision.png class="center">
+    }
+</style>
+
+{{< /rawhtml >}}
+
+
+
+{{<figure src=/datavision.png class="center">}}
