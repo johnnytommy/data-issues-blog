@@ -10,6 +10,8 @@ day_night: true
 font: 'datavision_fonts'
 font_size: L
 
+site_logo: '/media/datavision.png'
+
 # SEO
 
 site_type: Person
