@@ -5,12 +5,12 @@
 
 # Appearance
 
-theme: "datavision"
-day_night: true
-font: 'datavision_fonts'
+theme: datavision
+day_night: false
+font: datavision_fonts
 font_size: L
 
-site_logo: '/media/datavision.png'
+site_logo: datavision.png
 
 # SEO
 
