@@ -18,6 +18,6 @@ background = "#C2F7FF"
 home_section_odd = "#FFFFFF"
 home_section_even = "#C2F7FF"
 
-# font = "rose"
+##font = "datavision_fonts"
 link = "#875C74"
 link_hover = "#875C74"
