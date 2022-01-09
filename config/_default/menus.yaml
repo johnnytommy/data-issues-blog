@@ -7,8 +7,8 @@ main:
   - name: Blog
     url: '/blog'
     weight: 10
-  - name: Goodies
-    url: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
+  - name: Voice Acting
+    url: '/voice-acting'
     weight: 20
   - name: About
     url: '/about'
