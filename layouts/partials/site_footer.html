@@ -1,0 +1,22 @@
+  <p class="powered-by">
+    <small>
+      <center>
+    {{ with site.Copyright }}{{ replace . "{year}" now.Year | markdownify}} &middot; {{ end }}
+
+    Made with &ensp;<a href="https://github.com/johnnytommy" target="_blank" rel="noopener"><i class="fas fa-code-branch"></i></a><a href="https://github.com/rstudio/blogdown" target="_blank" rel="noopener"></a>, the&ensp;<a href="https://cran.r-project.org/" target="_blank" rel="noopener"><i class="fab fa-r-project"></i> </a><a href="https://github.com/rstudio/blogdown" target="_blank" rel="noopener">blogdown</a> package, and the 
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    {{ if not (in (slice "docs" "updates") .Type) }}
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-1x"></i>
+        </span>
+      </a>
+    </span>
+    {{ end }}
+    </center>
+</small>
+  </p>
+</footer>
