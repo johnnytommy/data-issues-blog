@@ -1,11 +1,14 @@
 # Font style metadata
-name = "Rose"
+name = "datavision_fonts"
 
 # Optional Google font URL
-google_fonts = "family=B612+Mono&family=B612:wght@400;700&family=Jura:wght@400;700"
+google_fonts = "family=Cutive+Mono&family=Lora:wght@400;700&family=Roboto:wght@400;700&display=swap"
 
 # Font families
-heading_font = "Jura"
-body_font = "B612"
-nav_font = "Jura"
-mono_font = "B612 Mono"
+heading_font = "Lora"
+body_font = "Roboto"
+nav_font = "Lora"
+mono_font = "Cutive Mono"
+
+
+##Rose theme here because I am unable to customize....

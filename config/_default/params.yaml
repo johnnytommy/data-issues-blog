@@ -7,7 +7,7 @@
 
 theme: datavision
 day_night: false
-font: Rose
+font: datavision_fonts
 font_size: L
 
 # SEO
