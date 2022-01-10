@@ -27,7 +27,7 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter!
-  link: https://twitter.com/johnny_stats
+  link: https://twitter.com/data_visi0n
 - icon: github
   icon_pack: fab
   link: https://github.com/johnnytommy
