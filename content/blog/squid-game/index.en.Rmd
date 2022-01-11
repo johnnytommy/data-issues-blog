@@ -1,5 +1,5 @@
 ---
-title: Binomial Probabilty in Netflix's 'Squid Game'
+title: Binomial Probability in Netflix's 'Squid Game'
 author: John Thomas
 date: '2022-01-14'
 slug: squid-game
