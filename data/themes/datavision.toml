@@ -5,7 +5,7 @@ name = "datavision"
 light = true
 
 # Primary
-primary = "#EF476F"
+primary = "#20A4F3"
 
 # Menu
 menu_primary = "#BA5A31"
@@ -19,5 +19,7 @@ home_section_odd = "#FFFFFF"
 home_section_even = "#C2F7FF"
 
 ##font = "datavision_fonts"
-link = "#875C74"
+link = "#20A4F3"
 link_hover = "#875C74"
+
+
