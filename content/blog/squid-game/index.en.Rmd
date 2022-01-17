@@ -28,4 +28,4 @@ projects: []
 ---
 
 
-It's time we do our actual blog.
+It's time we do our actual blog. We are doing this live!
